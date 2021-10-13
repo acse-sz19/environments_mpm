@@ -1,4 +1,6 @@
+python>=3.6,<3.10
+pip
 numpy>1.16
 scipy
 matplotlib
-SymPy
+sympy
